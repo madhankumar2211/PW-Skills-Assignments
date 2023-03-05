@@ -1,0 +1,126 @@
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:04:21] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:04:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Merit\\AppData\\Roaming\\Python\\Python39\\site-packages\\fuzzywuzzy\\fuzz.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python39\\Lib\\datetime.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python39\\Lib\\logging\\config.py', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:root:[Errno 13] Permission denied: 'D:\\PW Skills\\scrap_eng_pw_skills\\sample_csv.csv'
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:05:58] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:06:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:[Errno 13] Permission denied: 'D:\\PW Skills\\scrap_eng_pw_skills\\sample_csv.csv'
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:06:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:06:12] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:06:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:'review' is undefined
+INFO:werkzeug: * Detected change in 'C:\\Users\\Merit\\AppData\\Roaming\\Python\\Python39\\site-packages\\jinja2\\__pycache__\\debug.cpython-39.pyc', reloading
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:07:00] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:07:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Invalid URL '': No scheme supplied. Perhaps you meant http://?
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:07:07] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:07:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'review' is undefined
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:07:12] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:'review' is undefined
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:08:01] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:08:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'review' is undefined
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:08:08] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:08:21] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:08:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:08:47] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:08:47] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:10:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:10:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:10:58] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:10:58] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:11:39] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:11:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:12:49] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:12:49] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:14:09] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:14:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:14:39] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:14:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:15:23] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:15:23] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:16:02] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:16:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:16:16] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:16:16] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:17:14] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:17:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:17:18] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:17:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:17:26] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:17:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:17:30] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:17:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:18:18] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:18:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:18:39] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:18:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:19:12] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:19:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:19:35] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:19:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:20:02] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:20:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:21:25] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:21:39] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Merit\\AppData\\Roaming\\Python\\Python39\\site-packages\\pandas\\io\\formats\\__pycache__\\string.cpython-39.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Merit\\AppData\\Roaming\\Python\\Python39\\site-packages\\pandas\\io\\formats\\__pycache__\\html.cpython-39.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Merit\\AppData\\Roaming\\Python\\Python39\\site-packages\\pandas\\core\\frame.py', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Merit\\AppData\\Roaming\\Python\\Python39\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:root:Index(...) must be called with a collection of some kind, False was passed
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:31:15] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:root:Index(...) must be called with a collection of some kind, False was passed
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:31:35] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:31:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Index(...) must be called with a collection of some kind, False was passed
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:31:39] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\PW Skills\\scrap_eng_pw_skills\\application.py', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-678-975
+INFO:werkzeug: * Running on http://localhost:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:32:19] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Mar/2023 16:35:40] "[37mPOST /review HTTP/1.1[0m" 200 -
